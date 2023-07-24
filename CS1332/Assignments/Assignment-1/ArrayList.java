@@ -150,7 +150,7 @@ public class ArrayList<T> {
      */
     public T removeFromBack() {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
-      if (backingArray[0] == null){
+      if (size() == 0){
         throw new NoSuchElementException("The Array is empty");
       }
       
