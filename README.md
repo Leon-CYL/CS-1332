@@ -2,7 +2,7 @@
 
 ## Description:
 
-> This is an online a data structure and algorithm course that I took at edX which is offer by
+> This is an online data structure and algorithm course that I took at edX which is offer by
 > Georgia Institute of Technology. All of my implementation of the data structures and algorithm can
 > be found in the Assignment folder and all of my certificates can be found in the certificate folder.
 
