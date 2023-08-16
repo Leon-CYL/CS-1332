@@ -4,8 +4,7 @@
 
 > This is an online data structure and algorithm course from edX which is offered by Georgia Institute of Technology. All of my implementation of the data structures and algorithm can be found in the Assignment folder and my certificates can be found in the certificate folder.
 
-![Professional Certificate](CS1332/Certificates/Professional%20Certificate%20_%20edX%20Credentials%20Cs%201332.pdf)
-## Syllabus:
+![Professional Certificate](Professional.png)
 
 > [Part 1](https://www.edx.org/course/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)<br>
 > [Part 2](https://www.edx.org/course/data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)<br>
@@ -13,6 +12,8 @@
 > [Part 4](https://www.edx.org/course/data-structures-algorithms-iv-pattern-matching-djikstras-mst-and-dynamic-programming-algorithms)<br>
 
 ## Course Overview:
+
+![part1](CS1332I.png)
 
 ### Module 1: ArrayLists and Recursion
 
@@ -31,6 +32,8 @@
 > In this module, it introduces the Stack and the Queue. Lists required a large degree of flexibility in accessing, removing, and adding at any index in the list. In contrast, Stacks and Queues are more specialized for operations at the ends of the data (the front and back of a list).
 
 > Assignment 3: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-3)<br>
+
+![part2](CS1332II.png)
 
 ### Module 4: BST(Binary Search Tree) Introduction
 
@@ -56,6 +59,8 @@
 
 > Assignment 7: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-7)<br>
 
+![part3](CS1332III.png)
+
 ### Module 8: AVLs
 
 > In this module, it covers a sub classification of BSTs called AVL Trees, which are self-balancing trees. The name of the tree itself comes from its creators Adelson-Velsky and Landis. AVLs formally define what a "balanced tree" is, and they impose the additional restriction that by the end of any operation, the tree must remain balanced. For us, we'll be looking at how this applies to the add and remove operations specifically, and how the pointer reinforcement technique helps us implement the needed mechanisms (known as rotations) in a clean and intuitive way.
@@ -79,6 +84,8 @@
 > In this module, it performs sorting with improved time complexity, but the ideas will utilize the divide and conquer paradigm. This new paradigm will split and stratify the data into smaller groups. Doing so allows this approach to avoid looking over all of the data too many times. We will learn the inherent limitations of comparison based sorting, as well as an interesting sorting algorithm that applies to specific types of data like integers.
 
 > Assignment 11: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-11)<br>
+
+![part4](CS1332IV.png)
 
 ### Module 12: Pattern Matching Algorithms
 
