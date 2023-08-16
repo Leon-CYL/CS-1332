@@ -6,6 +6,7 @@
 
 ![Professional Certificate](Professional.png)
 
+## Syllabus
 > [Part 1](https://www.edx.org/course/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)<br>
 > [Part 2](https://www.edx.org/course/data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)<br>
 > [Part 3](https://www.edx.org/course/data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms)<br>
