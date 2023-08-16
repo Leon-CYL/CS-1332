@@ -13,8 +13,6 @@
 
 ## Course Overview:
 
-![part1](CS1332I.png)
-
 ### Module 1: ArrayLists and Recursion
 
 > This module introduces the implementation of the abstract data structure, ArrayList, and a review of recursive concepts, as recursion is essential in traversing and manipulating data structures in the future course.
@@ -33,7 +31,7 @@
 
 > Assignment 3: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-3)<br>
 
-![part2](CS1332II.png)
+![part1](CS1332I.png)
 
 ### Module 4: BST(Binary Search Tree) Introduction
 
@@ -59,7 +57,7 @@
 
 > Assignment 7: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-7)<br>
 
-![part3](CS1332III.png)
+![part2](CS1332II.png)
 
 ### Module 8: AVLs
 
@@ -85,7 +83,7 @@
 
 > Assignment 11: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-11)<br>
 
-![part4](CS1332IV.png)
+![part3](CS1332III.png)
 
 ### Module 12: Pattern Matching Algorithms
 
@@ -110,3 +108,5 @@
 > In this module, it introduces a simple yet highly effective algorithmic design technique known as dynamic programming (DP). Dynamic programming is similar to the divide and conquer recursive paradigm where we break the problem into subproblems and then combine them in some clever way. However, when we have overlapping subproblems, recursion can introduce a lot of redundant work, so dynamic programming improves upon this by introducing memoization, the storing of solutions to subproblems.
 
 > Assignment 15: None
+
+![part4](CS1332IV.png)
