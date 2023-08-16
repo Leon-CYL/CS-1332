@@ -4,6 +4,7 @@
 
 > This is an online data structure and algorithm course from edX which is offered by Georgia Institute of Technology. All of my implementation of the data structures and algorithm can be found in the Assignment folder and my certificates can be found in the certificate folder.
 
+![Professional Certificate](https://github.com/Leon-CYL/CS-1332/blob/main/CS1332/Certificates/Professional%20Certificate%20_%20edX%20Credentials%20Cs%201332.pdf)
 
 ## Syllabus:
 
