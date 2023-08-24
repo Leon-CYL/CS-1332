@@ -33,6 +33,7 @@
 > Assignment 3: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-3)<br>
 
 ![part1](CS1332I.png)
+![part1_grade](Grade/part1_Grade.png)
 
 ### Module 4: BST(Binary Search Tree) Introduction
 
@@ -59,6 +60,7 @@
 > Assignment 7: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-7)<br>
 
 ![part2](CS1332II.png)
+![part2_grade](Grade/part2_Grade.png)
 
 ### Module 8: AVLs
 
@@ -85,6 +87,7 @@
 > Assignment 11: [here](https://github.com/Leon-CYL/CS-1332/tree/main/CS1332/Assignments/Assignment-11)<br>
 
 ![part3](CS1332III.png)
+![part3_grade](Grade/part3_Grade.png)
 
 ### Module 12: Pattern Matching Algorithms
 
@@ -111,3 +114,4 @@
 > Assignment 15: None
 
 ![part4](CS1332IV.png)
+![part4_grade](Grade/part4_Grade.png)
